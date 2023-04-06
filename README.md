@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshp09
-- 👀 I’m interested in Front end developmnet,content writing
+- 👀 I’m interested in Front end developmnet
 - 🌱 I’m currently learning DSA(JAVA) and Full stack Development
 - 📫 How to reach me :-
 -  mail id -harsh9503pandey@gmail.com
