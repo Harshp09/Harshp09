@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Harshp09
-- 👀 I’m interested in Front end developmnet
-- 🌱 I’m currently learning DSA(JAVA) and Full stack Development
+- 👋 Hi, I’m Harsh Pandey(@Harshp09)
+- 🌱 Web Developer Enthusiast
 - 📫 How to reach me :-
 -  mail id -harsh9503pandey@gmail.com
 - linkedin id -https://www.linkedin.com/in/harsh-pandey-568263227/
